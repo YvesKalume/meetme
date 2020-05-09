@@ -6,4 +6,4 @@ My Kotlin self training app :
 - click liste et
 - navigation
 
-![](https://raw.githubusercontent.com/YvesKalume/meetme/blob/master/screenshot.png?raw=true)
+![](https://raw.githubusercontent.com/YvesKalume/meetme/blob/master/screenshot.png)
